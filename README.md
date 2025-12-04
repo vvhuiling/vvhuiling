@@ -12,7 +12,7 @@ The main works I intend to highlight are listed below.
 A real-time gesture-to-surface deformation system using bare-hand tracking.  
 Includes temporal filtering, falloff shaping, normal-aligned displacement, and stability improvements to handle jitter and fast-motion loss.  
 
-👉 **[virtual-sculpting-leapmotion](#)**
+👉 **[virtual_pottery](#)**
 
 ---
 
@@ -22,7 +22,7 @@ Includes temporal filtering, falloff shaping, normal-aligned displacement, and s
 Design and implementation of an information-rich interactive interface with attention to learnability, flow, and error prevention.  
 Includes iterative prototyping, interaction modeling, and structured evaluation.  
 
-👉 **[interactive-kiosk-hci](#)**
+👉 **[multiversal-studios](#)**
 
 ---
 
