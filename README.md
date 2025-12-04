@@ -26,7 +26,7 @@ Includes iterative prototyping, interaction modeling, and structured evaluation.
 
 ---
 
-## 🤖 Multi-Agent Workflow Automation Project  
+## 🤖 DDAgent: Dynamic Decision Agent for Druggability Analysis*
 **(Python, APIs, System Integration)**  
 
 A lightweight agent-based pipeline that coordinates external tools for small-molecule exploration.  
